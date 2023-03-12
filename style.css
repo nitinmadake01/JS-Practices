@@ -1,0 +1,29 @@
+h1,
+h2 {
+  font-family: Lato;
+}
+
+.grand {
+  height: 50vh;
+  width: auto;
+  background-color: red;
+  display: flex;
+}
+.parent {
+  background-color: grey;
+  margin: auto;
+  width: 50%;
+  padding: 20px;
+}
+
+.btn {
+  background-color: rgb(55, 224, 69);
+  color: black;
+  border: none;
+  padding: 3px;
+}
+
+.new-btn {
+  background-color: blue;
+  color: white;
+}
